@@ -1,0 +1,8 @@
+print("my name is Dhevansh")
+#print("I like to play Football!")
+print("lets do a trivia quiz!")
+print("In waht year did world war 2 start")
+print("1. 1986")
+print("2. 1939")
+print("3. 1945")
+print("please type your answer")
