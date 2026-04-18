@@ -1,0 +1,1 @@
+print("The square root of 25 is 5")
