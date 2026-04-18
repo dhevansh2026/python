@@ -1,1 +1,3 @@
-print("The square root of 25 is 5")
+num = int(input("enter your number"))
+print("The square root of",num,"is",num**0.5)
+
